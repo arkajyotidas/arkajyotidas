@@ -37,7 +37,7 @@ Other      14 mins         █▓░░░░░░░░░░░░░░░�
 
 ## Support Me On
 
-<a href="https://www.buymeacoffee.com/arkajyotidas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 109px !important;" ></a>
+[<img height="32" width="32" src="/assets/linkedin.png" />][buymeacoffee]
 
 [website]: https://www.arkajyotidas.com
 
@@ -46,3 +46,5 @@ Other      14 mins         █▓░░░░░░░░░░░░░░░�
 [twitter]:https://twitter.com/arkajyotidas
 [pinterest]:https://www.pinterest.com/arkajyotidas
 [linkedin]:https://www.linkedin.com/in/arkajyotidas
+
+[buymeacoffee]:https://www.buymeacoffee.com/arkajyotidas
