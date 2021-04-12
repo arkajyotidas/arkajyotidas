@@ -37,7 +37,7 @@ Other      14 mins         █▓░░░░░░░░░░░░░░░�
 
 ## Support Me On
 
-[<img src="/assets/bmc.png" />][buymeacoffee]
+[<img height="76.5" width="272.5" src="/assets/bmc.png" />][buymeacoffee]
 
 [website]: https://www.arkajyotidas.com
 
