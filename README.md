@@ -13,7 +13,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-### My Coding Stats
+## My Coding Stats
 <!--START_SECTION:waka-->
 ```text
 HTML       1 hr 32 mins    ███████████░░░░░░░░░░░░░░   43.82 % 
@@ -24,7 +24,7 @@ Other      14 mins         █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### My GitHub Stats
+## My GitHub Stats
 
 ![Arkajyoti Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkajyotidas&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
@@ -35,7 +35,9 @@ Other      14 mins         █▓░░░░░░░░░░░░░░░�
 [<img height="32" width="32" src="/assets/pinterest.png" />][pinterest] &nbsp; &nbsp;
 [<img height="32" width="32" src="/assets/linkedin.png" />][linkedin] &nbsp; &nbsp;
 
+## Support Me On
 
+<a href="https://www.buymeacoffee.com/arkajyotidas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 [website]: https://www.arkajyotidas.com
 
