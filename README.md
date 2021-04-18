@@ -13,7 +13,6 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-## Most Used Languages
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
