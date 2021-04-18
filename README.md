@@ -5,11 +5,11 @@
 * Currently I am designing few IOT Devices for Goverment.
 * Planning to Learn AR & VR to design my own HUD Displays.
   
-<!--- ### Recent Blogs -->
+### Recent Blogs From [Arkajyoti Das][website]
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ### Recent Videos -->
+### Recent Videos From [Youtube Channel][youtube]
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
