@@ -13,15 +13,8 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-## My Coding Stats
+## Most Used Languages
 <!--START_SECTION:waka-->
-```text
-HTML       1 hr 53 mins    █████████████▒░░░░░░░░░░░   53.65 % 
-CSS        49 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.30 % 
-Markdown   28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Other      14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-YAML       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
 <!--END_SECTION:waka-->
 
 ## My GitHub Stats
@@ -42,6 +35,10 @@ YAML       5 mins          ▓░░░░░░░░░░░░░░░░�
 ## Support Me On
 
 [<img height="76.5" width="272.5" src="/assets/bmc.png" />][buymeacoffee]
+
+# Visitors Count
+
+![Visitor Count](https://profile-counter.glitch.me/{arkajyotidas}/count.svg)
 
 [website]: https://www.arkajyotidas.com
 
