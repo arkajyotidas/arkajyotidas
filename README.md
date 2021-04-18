@@ -15,13 +15,8 @@
 
 ## Current Statistics
 
-<<<<<<< HEAD
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
-=======
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
->>>>>>> bb60461a11135eb98015751b1389a018ef584b5c
 
 ## My GitHub Stats
 
