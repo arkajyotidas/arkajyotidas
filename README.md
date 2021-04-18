@@ -35,6 +35,10 @@ YAML       5 mins          ▓░░░░░░░░░░░░░░░░�
 [<img height="32" width="32" src="/assets/pinterest.png" />][pinterest] &nbsp; &nbsp;
 [<img height="32" width="32" src="/assets/linkedin.png" />][linkedin] &nbsp; &nbsp;
 
+## Buy My Hardwares
+
+<a href="https://www.tindie.com/stores/arkajyotidas/?ref=offsite_badges&utm_source=sellers_arkajyotidas&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+
 ## Support Me On
 
 [<img height="76.5" width="272.5" src="/assets/bmc.png" />][buymeacoffee]
