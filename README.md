@@ -8,6 +8,13 @@
 ## Current Statistics
 
 <!--START_SECTION:waka-->
+```text
+YAML       1 hr 20 mins    ████████░░░░░░░░░░░░░░░░░   31.46 % 
+HTML       1 hr 8 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.86 % 
+Markdown   42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Other      20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+CSS        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+```
 <!--END_SECTION:waka-->
 
 ## My GitHub Stats
