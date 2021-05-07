@@ -30,12 +30,12 @@ Ruby       2 mins          ██▓░░░░░░░░░░░░░░�
 
 ## Support Me On
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="height: 60px !important;width: 217px !important;" >][buymeacoffee]&nbsp; &nbsp;
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="height: 60px !important;" >][buymeacoffee]&nbsp; &nbsp;
 [<img src="/assets/patreon.png" height="60" >][patreon]
 
 ## Buy My Hardwares
 
-[<img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104">][tindie]
+[<img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78">][tindie]
 
 ## Visitors Count
 
