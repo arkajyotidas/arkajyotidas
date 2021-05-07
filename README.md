@@ -30,7 +30,7 @@ Ruby       2 mins          ██▓░░░░░░░░░░░░░░�
 
 ## Support Me On
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="height: 60px !important;" >][buymeacoffee]&nbsp; &nbsp;
+[<img src="/assets/buymeacoffee.png" height="60" >][buymeacoffee] &nbsp; &nbsp;
 [<img src="/assets/patreon.png" height="60" >][patreon]
 
 ## Buy My Hardwares
