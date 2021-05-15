@@ -30,7 +30,6 @@ Ruby       2 mins          █░░░░░░░░░░░░░░░░�
 
 ## Support Me On
 
-[<img src="/assets/buymeacoffee.png" height="60" >][buymeacoffee] &nbsp; &nbsp;
 [<img src="/assets/patreon.png" height="60" >][patreon]
 
 ## Buy My Hardwares
@@ -48,7 +47,6 @@ Ruby       2 mins          █░░░░░░░░░░░░░░░░�
 [pinterest]:https://www.pinterest.com/arkajyotidas
 [linkedin]:https://www.linkedin.com/in/arkajyotidas
 
-[buymeacoffee]: https://www.buymeacoffee.com/arkajyotidas
 [patreon]: https://www.patreon.com/arkajyotidas
 
 [tindie]: https://www.tindie.com/stores/arkajyotidas
