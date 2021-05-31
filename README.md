@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Ruby       4 mins          █████████▓░░░░░░░░░░░░░░░   38.60 % 
+YAML       3 mins          ████████▓░░░░░░░░░░░░░░░░   34.37 % 
+Markdown   3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.56 % 
 ```
 <!--END_SECTION:waka-->
 
