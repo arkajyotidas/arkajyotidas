@@ -9,11 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML    3 hrs 28 mins   ████████████████▒░░░░░░░░   64.97 % 
-CSS     1 hr 36 mins    ███████▓░░░░░░░░░░░░░░░░░   30.24 % 
-YAML    12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Ruby    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
