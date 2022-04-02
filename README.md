@@ -11,7 +11,7 @@
 [<img height="32" width="32" src="/assets/twitter.png" />][twitter] &nbsp; &nbsp;
 [<img height="32" width="32" src="/assets/linkedin.png" />][linkedin] &nbsp; &nbsp;
 
-[Arkajyoti Das]:https://www.youtube.com/arkajyotidas
+[Arkajyoti Das]:https://www.arkajyotidas.com
 [Youtube]:https://www.youtube.com/arkajyotidas
 [Patreon]:https://www.patreon.com/arkajyotidas
 
