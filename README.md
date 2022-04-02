@@ -1,4 +1,4 @@
-# Hi there, I am [Arkajyoti Das]. 👋
+# Hi there, I am [Arkajyoti Das] 👋
 
 **Find my latest works on [Youtube].**
 
