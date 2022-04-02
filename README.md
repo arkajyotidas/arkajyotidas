@@ -1,10 +1,11 @@
 # Hi there, I am [Arkajyoti Das] 👋
 
-## Find my latest works on my [Youtube].
+**Find my latest works on my [Youtube].**
 
-## If you like my work and want me to be able to keep improving it, please sponsor me on [Patreon].
+**If you like my work and want me to be able to keep improving it, please sponsor me on [Patreon].**
 
-### You can also follow me on 
+**You can also follow me on**
+
 [<img height="32" width="32" src="/assets/facebook.png" />][facebook] &nbsp; &nbsp;
 [<img height="32" width="32" src="/assets/instagram.png" />][instagram] &nbsp; &nbsp;
 [<img height="32" width="32" src="/assets/twitter.png" />][twitter] &nbsp; &nbsp;
