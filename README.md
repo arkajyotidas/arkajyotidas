@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I am [Arkajyoti Das] 👋
 
-<!--
-**arkajyotidas/arkajyotidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Find my latest works on my [Youtube].
 
-Here are some ideas to get you started:
+## If you like my work and want me to be able to keep improving it, please sponsor me on [Patreon].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can also follow me on 
+[<img height="32" width="32" src="/assets/facebook.png" />][facebook] &nbsp; &nbsp;
+[<img height="32" width="32" src="/assets/instagram.png" />][instagram] &nbsp; &nbsp;
+[<img height="32" width="32" src="/assets/twitter.png" />][twitter] &nbsp; &nbsp;
+[<img height="32" width="32" src="/assets/linkedin.png" />][linkedin] &nbsp; &nbsp;
+
+[Arkajyoti Das]:https://www.youtube.com/arkajyotidas
+[Youtube]:https://www.youtube.com/arkajyotidas
+[Patreon]:https://www.patreon.com/arkajyotidas
