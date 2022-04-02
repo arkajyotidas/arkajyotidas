@@ -13,3 +13,8 @@
 [Arkajyoti Das]:https://www.youtube.com/arkajyotidas
 [Youtube]:https://www.youtube.com/arkajyotidas
 [Patreon]:https://www.patreon.com/arkajyotidas
+
+[facebook]:https://www.facebook.com/arkajyotidas
+[instagram]:https://www.instagram.com/arkajyotidas
+[twitter]:https://twitter.com/arkajyotidas
+[linkedin]:https://www.linkedin.com/in/arkajyotidas
