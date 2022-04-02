@@ -1,6 +1,6 @@
-# Hi there, I am [Arkajyoti Das] 👋
+# Hi there, I am [Arkajyoti Das]. 👋
 
-**Find my latest works on my [Youtube].**
+**Find my latest works on [Youtube].**
 
 **If you like my work and want me to be able to keep improving it, please sponsor me on [Patreon].**
 
