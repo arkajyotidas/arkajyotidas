@@ -2,8 +2,6 @@
 
 **Find my latest works on [Youtube].**
 
-**If you like my work and want me to be able to keep improving it, please support me on [Patreon].**
-
 **You can also follow me on**
 
 [<img height="32" width="32" src="/assets/facebook.png" />][facebook] &nbsp; &nbsp;
@@ -13,7 +11,6 @@
 
 [Arkajyoti Das]:https://www.arkajyotidas.com
 [Youtube]:https://www.youtube.com/arkajyotidas
-[Patreon]:https://www.patreon.com/arkajyotidas
 
 [facebook]:https://www.facebook.com/arkajyotidas
 [instagram]:https://www.instagram.com/arkajyotidas
