@@ -2,11 +2,6 @@
 <h2 align="center">A Robotics & Drone Engineer From India</h2>
 
 
-### Latest Youtube Videos
-<div align="left">
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/ArkajyotiDas?sub_confirmation=1)
-
-</div>
+# Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
