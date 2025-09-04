@@ -3,5 +3,5 @@
 
 
 # Latest Youtube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
